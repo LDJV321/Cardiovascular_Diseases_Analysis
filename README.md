@@ -214,6 +214,36 @@ Usando un gráfico de calor, observamos que la categoría de BMI >40 kg/m² tien
 Estos hallazgos indican que existe una relación significativa entre el aumento de BMI y el gasto en salud. En particular, el sobrepeso (BMI ≥25 kg/m²) muestra una correlación más fuerte con el gasto en salud en comparación con otras categorías de BMI. Esta relación resalta la importancia de abordar el sobrepeso y la obesidad como parte de las estrategias de salud pública para reducir las enfermedades cardiovasculares y mejorar la salud general de la población. El aumento del BMI en todas las categorías analizadas y su relación con el gasto en salud subraya la necesidad de políticas y programas de salud que promuevan estilos de vida saludables y la prevención del sobrepeso y la obesidad.
 
 
+## Fuentes de las Bases de Datos y Derechos
+
+### Investigación Realizada por
+
+Luis David Jimenez Vanegas
+
+### Fuentes de Datos
+
+Esta investigación se llevó a cabo utilizando datos de las siguientes fuentes:
+
+1. [Organización Panamericana de la Salud (PAHO): Carga de Enfermedades Cardiovasculares](https://www.paho.org/es/enlace/carga-enfermedades-cardiovasculares)
+2. [Organización Mundial de la Salud (WHO): Indicadores de Gasto en Salud](https://apps.who.int/nha/database/Select/Indicators/en)
+3. [Banco Mundial: Indicadores de Desarrollo Mundial](https://wdi.worldbank.org/table/2.1)
+
+### Derechos y Uso de Datos
+
+Todos los datos utilizados en esta investigación provienen de fuentes públicas y están sujetos a los términos y condiciones establecidos por cada organización respectiva. La información ha sido utilizada con fines de análisis e investigación, respetando los derechos de autor y las políticas de uso de datos de cada fuente.
+
+- **Organización Panamericana de la Salud (PAHO)**: Los datos sobre la carga de enfermedades cardiovasculares han sido obtenidos de la plataforma oficial de la PAHO, que proporciona acceso a estadísticas de salud pública para América Latina y el Caribe.
+  
+- **Organización Mundial de la Salud (WHO)**: Los indicadores de gasto en salud han sido extraídos de la base de datos de la WHO, que ofrece datos sobre el financiamiento de la salud a nivel global.
+
+- **Banco Mundial**: Los indicadores de desarrollo mundial.
+
+### Reconocimiento
+
+Quiero agradecer a estas organizaciones por proporcionar acceso a sus bases de datos, lo que ha permitido realizar esta investigación y análisis en profundidad sobre las enfermedades cardiovasculares, el sobrepeso, la obesidad y el gasto en salud.
+
+
+
 
 
 
