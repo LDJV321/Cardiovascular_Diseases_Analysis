@@ -130,8 +130,90 @@ Explora estos gráficos para obtener una visión clara del gasto en salud global
 
 ## Explicación de la Quinta Página del Dashboard
 
+![imagen](https://github.com/user-attachments/assets/3afb979b-3b10-4441-a330-3396aeae8d3c)
+
 La quinta página del dashboard está dedicada a presentar una tabla que integra toda la información combinada de las cuatro bases de datos utilizadas en el análisis. Esta página proporciona una vista consolidada de los datos para facilitar una comprensión global y detallada.
 
-![imagen](https://github.com/user-attachments/assets/3afb979b-3b10-4441-a330-3396aeae8d3c)
+
+## Datos Descubiertos
+
+Durante esta investigación, se han descubierto varias tendencias y relaciones significativas entre las enfermedades cardiovasculares y otros factores como el gasto en salud y la prevalencia de sobrepeso y obesidad. A continuación, se describen los principales hallazgos:
+
+### 1. Tendencia Global de Enfermedades Cardiovasculares
+
+El primer hallazgo significativo es que las enfermedades cardiovasculares muestran una pequeña tendencia al alza a nivel mundial. Esta tendencia se ha observado a través de gráficos de líneas que muestran el incremento en los casos de enfermedades cardiovasculares a lo largo del tiempo.
+
+![imagen](https://github.com/user-attachments/assets/851e4c62-ecee-45c1-9899-b167e51f8e1a)
+
+### 2. Relación con el Gasto en Salud
+
+Paralelamente, se observa que el gasto de Current Health Expenditure (CHE) como porcentaje del Producto Interno Bruto (PIB) promedio mundial también está en aumento. Al analizar estos dos factores juntos, parece haber una relación entre el incremento del gasto en salud y la prevalencia de enfermedades cardiovasculares.
+
+![imagen](https://github.com/user-attachments/assets/c6cb4b89-3c3b-4406-a619-80d9b9d2f157)
+
+### 3. Análisis de Correlación
+
+Para profundizar en esta relación, se realizó un análisis de correlación utilizando un mapa de calor. Los resultados mostraron una correlación de 0.66 entre el gasto en salud y los casos de enfermedades cardiovasculares, indicando una relación positiva moderada.
+
+![imagen](https://github.com/user-attachments/assets/24dc28a2-63a7-49a7-bd20-583505228866)
+
+Adicionalmente, se calcularon las siguientes correlaciones:
+- **Correlación de Pearson**: 0.6617
+- **Correlación de Spearman**: 0.5051
+- **Correlación de Kendall**: 0.3525
+
+### 4. Gráfico de Dispersión
+
+Para visualizar la relación entre el gasto en salud y las enfermedades cardiovasculares, se creó un gráfico de dispersión. Este gráfico muestra una dispersión de los datos que sugiere una relación positiva entre el gasto en salud y la cantidad de enfermedades cardiovasculares.
+
+![imagen](https://github.com/user-attachments/assets/0c6fe4fe-c126-455d-81a2-eb37ee1443ad)
+
+### 5. Gráfico de Dispersión 3D
+
+Para explorar cómo esta relación ha cambiado a lo largo del tiempo, se creó un gráfico de dispersión 3D que incluye el gasto en salud, los casos de enfermedades cardiovasculares y el año. Este gráfico muestra que, aunque las enfermedades cardiovasculares y el gasto en salud han aumentado con el tiempo, la relación entre ambos factores se mantiene.
+
+![imagen](https://github.com/user-attachments/assets/17d39c73-4b6f-441d-a6a5-c4c797749b52)
+
+### Conclusión
+
+Los datos analizados indican que existe una relación significativa entre el gasto en salud y las enfermedades cardiovasculares a nivel global. Esta relación sugiere que los países que invierten más en salud tienden a tener una mayor incidencia de enfermedades cardiovasculares, aunque esta relación puede estar influenciada por múltiples factores. Estos hallazgos resaltan la importancia de un enfoque integral en la política de salud pública para abordar tanto la prevención como el tratamiento de enfermedades cardiovasculares.
+
+
+## Datos Descubiertos: Segunda Parte
+
+En esta sección, analizamos los datos relacionados con el índice de masa corporal (BMI) en diferentes rangos: >25 kg/m², >30 kg/m², >35 kg/m², y >40 kg/m². A continuación, se presentan los hallazgos clave y su análisis detallado.
+
+### 1. Tendencias del BMI
+
+Al analizar los datos de BMI en diferentes categorías, observamos que todas las categorías muestran una tendencia al alza. Aunque el BMI >40 kg/m² parece mantenerse más estable, también muestra un aumento con el tiempo.
+
+![imagen](https://github.com/user-attachments/assets/58edfb62-f887-481a-ab6a-342ca7578f76)
+
+### 2. Diferencias de Género en el BMI
+
+Dentro de los datos, encontramos diferencias notables entre géneros:
+- Los hombres tienden a tener un mayor promedio de BMI >25 kg/m² en comparación con las mujeres.
+- Las mujeres tienden a tener mayores promedios de BMI en las categorías >30 kg/m², >35 kg/m², y >40 kg/m².
+
+![imagen](https://github.com/user-attachments/assets/f04f14c2-5372-4406-a3b2-c0083aba8d34)
+
+### 3. Promedios entre Países
+
+El análisis muestra que el promedio de BMI entre diferentes países es relativamente cercano en las cuatro categorías analizadas. Esto sugiere una tendencia global consistente en el aumento del sobrepeso y la obesidad.
+
+![imagen](https://github.com/user-attachments/assets/f80c3334-1f27-4df2-84f9-9e9673f54231)
+
+### 4. Análisis de Correlación
+
+Usando un gráfico de calor, observamos que la categoría de BMI >40 kg/m² tiene una correlación de 0.48 con las enfermedades cardiovasculares. Sin embargo, la mayor correlación con respecto al gasto en salud se encuentra en la categoría de BMI ≥25 kg/m², con una correlación de 0.58.
+
+![imagen](https://github.com/user-attachments/assets/24dc28a2-63a7-49a7-bd20-583505228866)
+
+### Conclusión
+
+Estos hallazgos indican que existe una relación significativa entre el aumento de BMI y el gasto en salud. En particular, el sobrepeso (BMI ≥25 kg/m²) muestra una correlación más fuerte con el gasto en salud en comparación con otras categorías de BMI. Esta relación resalta la importancia de abordar el sobrepeso y la obesidad como parte de las estrategias de salud pública para reducir las enfermedades cardiovasculares y mejorar la salud general de la población. El aumento del BMI en todas las categorías analizadas y su relación con el gasto en salud subraya la necesidad de políticas y programas de salud que promuevan estilos de vida saludables y la prevención del sobrepeso y la obesidad.
+
+
+
 
 
